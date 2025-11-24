@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+voide main()
+{
+char gender;
+clrscr();
+if(gender=='g');
+{
+printf("girl");
+}
+else
+{
+printf("boy");
+}
+getch();
+}
